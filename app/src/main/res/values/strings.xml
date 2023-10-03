@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="initial_message">Messages from actions will go here.</string>
+
+    <string name="edit_url">Enter URL of file</string>
+    <string name="edit_add">Enter a File Name</string>
+    <string name="edit_details">Enter a Serial Number</string>
+    <string name="edit_remove">Enter Serial Number</string>
+    <string name="edit_sameBrand">Enter a Watch Brand</string>
+
+    <string name="opt1">Display list</string>
+    <string name="opt2">Load list from web file</string>
+    <string name="opt3">Add a new watch</string>
+    <string name="opt4">Show watch details</string>
+    <string name="opt5">Remove a watch</string>
+    <string name="opt6">Show average price of all dive watches</string>
+    <string name="opt7">Show the number of automatic watches</string>
+    <string name="opt8">Show all watches of a given brand</string>
+
+    <string name="text_loadlist_heading"><b><u>Load a List from off the Web</u></b>\n\nEnter a URL in the box.\nThen press the button.\n</string>
+    <string name="text_add_heading"><b><u>Add a Watch</u></b>\n\nEnter a file name.\nThen press the button to add the watch.\n</string>
+    <string name="text_detail_heading"><b><u>Display Watch Details</u></b>\n\nEnter a serial number.\nThen press the button to see watch details.\n</string>
+    <string name="text_remove_heading"><b><u>Remove a Watch</u></b>\n\nEnter a serial number from one of the watches in the list into the box.\nThen press the button to remove the watch.\n</string>
+    <string name="text_sameBrand_heading"><b><u>Display Watches of the Same Brand</u></b>\n\nEnter a watch brand name.\nThen press the button to see information about all the watches with the same brand name.\n</string>
+
+
+    <string name="button_url">Enter a URL</string>
+    <string name="button_add">Enter a File Name</string>
+    <string name="button_details">Enter a Serial Number</string>
+    <string name="button_remove">Enter a Serial Number</string>
+    <string name="button_sameBrand">Enter a Watch Brand</string>
+
+
+</resources>
