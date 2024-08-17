@@ -1,2 +1,2 @@
 # IT114
-This is a project I did in advanced progamming for information technology.
+This project is in regards to a watch company and displaying information about all watches, as well as, sorting the watches (i.e. brand, model).
